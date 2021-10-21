@@ -27,6 +27,5 @@ public class MainTest_1 {
         }finally {
             driver.quit();
         }
-
     }
 }
